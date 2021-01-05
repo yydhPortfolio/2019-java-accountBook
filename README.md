@@ -21,6 +21,6 @@ javaFX로 구현한 가계부
     등록버튼과 원래 저장되어있던 데이터를 조회, 수정이 가능합니다. 그리고 기록 또는 수정이 완료되었을 때 
     자동으로 창이 닫아지며, 오른쪽사진과 같이 알림창이 뜹니다.
   <p>
-    <img src="https://user-images.githubusercontent.com/51257552/103608361-87df2380-4f5e-11eb-8fbe-ed61d21e0452.png" width="40%"></img>
-    <img src="https://user-images.githubusercontent.com/51257552/103608366-89a8e700-4f5e-11eb-9c71-c178048b1da3.png" width="40%"></img>
+    <img src="https://user-images.githubusercontent.com/51257552/103608361-87df2380-4f5e-11eb-8fbe-ed61d21e0452.png" width="45%"></img>
+    <img src="https://user-images.githubusercontent.com/51257552/103608366-89a8e700-4f5e-11eb-9c71-c178048b1da3.png" width="45%"></img>
 </div>
