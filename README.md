@@ -1,4 +1,4 @@
-# 2019-java-accountBook
+# accountBook-2019
 javaFX로 구현한 가계부
 
 <h2>프로젝트 이미지 및 UI 사용법</h2>
